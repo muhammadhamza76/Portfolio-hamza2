@@ -16,13 +16,27 @@ portfolio-css/
 ├── images/
 └── README.md
 
-yaml
-Copy code
-
-## 🚀 How to View
+##  How to View
 Open `index.html` in your browser to view the portfolio website.
-
 ---
-
 **Author:** Muhammad Hamza  
 **GitHub:** [muhammadhamza76](https://github.com/muhammadhamza76)
+
+Click any image below to open the project.
+##  My Projects
+
+
+<a href="https://github.com/muhammadhamza76/Portfolio-hamza2">
+  <img src="images/s3.png" height ="600" width="400" alt="Portfolio-hamza">
+</a>
+
+<a href="https://github.com/muhammadhamza76/Portfolio-hamza2">
+  <img src="images/s2.png"  height ="600" width="400" alt="Portfolio-hamza">
+</a>
+
+
+<a href="https://github.com/muhammadhamza76/Portfolio-hamza2">
+  <img src="images/s1.png"   height ="600" width="400" alt="Portfolio-hamza">
+</a>
+
+
